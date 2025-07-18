@@ -1,5 +1,10 @@
 # Pizza Sales Analysis
 
+## Dataset
+
+This project uses the pizza sales dataset from Kaggle:  
+[Pizza Sales Dataset on Kaggle](https://www.kaggle.com/datasets/shilongzhuang/pizza-sales)
+
 ## What I learned
 - How to write SQL queries using GROUP BY, SUM, ORDER BY, and LIMIT.
 - How to use STRFTIME for date/time manipulation in SQLite.
