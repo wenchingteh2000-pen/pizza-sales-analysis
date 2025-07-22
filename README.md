@@ -13,12 +13,12 @@ This project explores and visualizes sales data from a fictional pizza restauran
 ## Project Structure
 
 pizza-sales-analysis/
-├── Pizza_sales dashboard.pbix
-├── PowerBI_Screenshots/
-│   ├── Dashboard_Full.png
+├── Pizza_sales dashboard.pbix # Final Power BI dashboard file
+├── PowerBI_Screenshots/ # Dashboard screenshot(s)
+│ └── Dashboard_Full.png
 ├── SQL/
-│   └── pizza_sales_analysis.sql
-└── README.md
+│ └── pizza_sales_analysis.sql # SQL queries used for data cleaning & analysis
+└── README.md # Project documentation
 
 ---
 
