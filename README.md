@@ -1,9 +1,26 @@
 # Pizza Sales Analysis
 
-## Dataset
+This project explores and visualizes sales data from a fictional pizza restaurant chain. The analysis was done using SQL for data exploration and transformation, and Power BI for interactive visualizations.
 
-This project uses the pizza sales dataset from Kaggle:  
-[Pizza Sales Dataset on Kaggle](https://www.kaggle.com/datasets/shilongzhuang/pizza-sales)
+## Tools Used
+- **SQL** (SQLite via DBeaver): for data cleaning, transformation, and analysis
+- **Power BI**: for building the interactive dashboard
+- **Dataset**: [Pizza Sales Dataset on Kaggle](https://www.kaggle.com/datasets/shilongzhuang/pizza-sales)
+
+---
+
+
+## Project Structure
+
+pizza-sales-analysis/
+├── Pizza_sales dashboard.pbix
+├── PowerBI_Screenshots/
+│   ├── Dashboard_Full.png
+├── SQL/
+│   └── pizza_sales_analysis.sql
+└── README.md
+
+---
 
 ## What I learned
 - How to write SQL queries using GROUP BY, SUM, ORDER BY, and LIMIT.
@@ -30,3 +47,21 @@ This project uses the pizza sales dataset from Kaggle:
 - Most orders come in the hour of 12:00 (12 PM).
 - The best-selling pizza by revenue is 'The Thai Chicken Pizza'.
 
+---
+
+## Highlights from Power BI Dashboard
+
+![Pizza Sales Dashboard](Dashboard_Full.png)
+
+> Interactive charts include:
+> Total Sales by Month
+> Total Sales by Day and Hour
+> Sales by Size and Category
+> Top Selling Pizzas
+
+---
+
+## Author
+
+Made by [Teh Wen Ching]
+[LinkedIn](https://www.linkedin.com/in/teh-wen-ching1905/)
